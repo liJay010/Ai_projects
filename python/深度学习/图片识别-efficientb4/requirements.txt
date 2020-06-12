@@ -1,0 +1,5 @@
+flyai
+numpy
+Pillow
+pytorch==1.1.0
+opencv-python
